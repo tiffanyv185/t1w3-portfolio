@@ -18,3 +18,6 @@ The home page displays an image and just some random text for now.
 
 ### Services
 The services page shows the services provided along with some images.
+
+### About
+The about page utilises css grid to show some info about the company.
